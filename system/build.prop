@@ -1,4 +1,4 @@
 
 ro.build.version.sdk=25
-sys.fb.bits=32
+sys.fb.bits=64
 osd.afbcd.enable=0
